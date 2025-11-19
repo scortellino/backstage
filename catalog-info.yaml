@@ -5,6 +5,7 @@ metadata:
   description: Promoter Legacy platform.
   annotations:
   github.com/project-slug: scortellino/backstage
+  backstage.io/techdocs-ref: dir:.
 
 spec:
   type: website
