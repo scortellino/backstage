@@ -4,7 +4,7 @@ metadata:
   name: promoter-legacy-app
   description: Promoter Legacy platform.
   annotations:
-  github.com/project-slug: bandsintown/Promoter
+  github.com/project-slug: scortellino/backstage
 
 spec:
   type: website
