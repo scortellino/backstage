@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: promoter-legacy-app
+  description: Promoter Legacy platform.
+  annotations:
+  github.com/project-slug: bandsintown/Promoter
+
+spec:
+  type: website
+  owner: developer
+  lifecycle: experimental
