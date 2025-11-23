@@ -1,12 +1,11 @@
-# Documents for my app
+# Documents for python-app
 
 This application has two endpoints:
-- `my-app/api/v1/info`
-- `my-app-=/api/v1/health`
+- `/api/v1/info`
+- `/api/v1/healthz`
 
-Here you could expand on what each of the endpoints do.
+Here you could expand on what each of these endpoints do.
 
 # How to access the app?
 
-You can access the app by accessing this url: `my-app.bit.com/api/v1/health`
-
+You can access the app by accessing this URL: `python-app.test.com/api/v1/healthz` 
